@@ -1,2 +1,2 @@
 # Arkanoid
-basic arkanoid game written using pygame
+basic arkanoid game written by using pygame
